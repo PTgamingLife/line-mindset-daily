@@ -308,7 +308,105 @@
       "action": "今天列出你有哪些技能可以變現，選一個最容易啟動的，設定一個 30 天內的第一步行動。",
       "source": "Tom Corley, Rich Habits",
       "url": "https://richhabits.net/rich-habits-multiple-streams-of-income/"
+    },
+    {
+      "id": "2026-06-27-wealth-spend-on-assets",
+      "date": "2026-06-27",
+      "title": "把錢花在會增值的地方",
+      "summary": "致富不是省到極致，而是把每一塊錢花在能帶來回報的地方。同樣是花錢，富人問的是「這筆支出未來會長大嗎？」",
+      "points": [
+        "消費前先分類：這是花掉就沒了，還是會生出更多錢？",
+        "把娛樂預算的一小部分，轉到能增值的學習或投資",
+        "省下的錢若只是躺著，也會被通膨吃掉"
+      ],
+      "action": "今天檢視一筆最近的支出，問自己：若改投入會增值的地方，一年後會差多少？",
+      "source": "Morgan Housel, The Psychology of Money",
+      "url": "https://www.morganhousel.com/"
+    },
+    {
+      "id": "2026-06-28-wealth-emergency-fund",
+      "date": "2026-06-28",
+      "title": "先有底氣，才敢冒值得的險",
+      "summary": "致富需要承擔風險，但沒有安全網的冒險叫賭博。準備好緊急預備金，你才有底氣在關鍵時刻下對的賭注。",
+      "points": [
+        "存下 3–6 個月生活費，當作你的「冒險許可證」",
+        "有後盾的人，談判和選擇時都更從容",
+        "安全感不是膽小，是讓你能承擔更大機會的本錢"
+      ],
+      "action": "今天算出你的每月必要支出，設定一個緊急預備金目標金額。",
+      "source": "Ramit Sethi, I Will Teach You to Be Rich",
+      "url": "https://www.iwillteachyoutoberich.com/"
+    },
+    {
+      "id": "2026-06-29-wealth-network-worth",
+      "date": "2026-06-29",
+      "title": "你的人脈，就是你的淨值",
+      "summary": "財富很多時候不是你知道什麼，而是你認識誰。高品質的人脈，會帶來資訊、機會與信任——這些都是金錢買不到的資產。",
+      "points": [
+        "主動經營能彼此成就的關係，而不是只在需要時才聯絡",
+        "成為對別人有價值的人，人脈才會回流到你身上",
+        "進入比你更高層次的圈子，眼界和機會同步升級"
+      ],
+      "action": "今天主動聯繫一位你欣賞、但久未往來的人，純粹關心或提供幫助。",
+      "source": "Porter Gale, Your Network Is Your Net Worth",
+      "url": "https://portergale.com/"
+    },
+    {
+      "id": "2026-06-30-wealth-delayed-gratification",
+      "date": "2026-06-30",
+      "title": "延遲享受，是致富者的超能力",
+      "summary": "能忍住現在的小快樂，換取未來的大成果，是財富累積的核心心理素質。富人不是不享受，而是懂得讓享受發生在對的時間。",
+      "points": [
+        "把「想要」延後 24 小時，衝動消費自然減少",
+        "先完成投資與儲蓄，剩下的錢盡情享受不愧疚",
+        "今天的克制，是未來自由的本金"
+      ],
+      "action": "今天遇到一個想立刻買的東西時，先寫進清單，過 24 小時再決定。",
+      "source": "Walter Mischel, The Marshmallow Test",
+      "url": "https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment"
+    },
+    {
+      "id": "2026-07-01-wealth-track-money",
+      "date": "2026-07-01",
+      "title": "管理財富，從看清每一塊錢去哪開始",
+      "summary": "你無法管理你沒在看的東西。記帳不是束縛，而是讓你拿回對金錢的主導權。看清現金流，財富才開始為你工作。",
+      "points": [
+        "用一個 App 或表格，記錄一個月的收入與支出",
+        "找出最大的三筆非必要支出，問值不值得",
+        "每月固定回顧一次，讓數字指引你的決策"
+      ],
+      "action": "今天開始記帳，把今天花的每一筆都記下來，連續 7 天。",
+      "source": "YNAB, You Need A Budget",
+      "url": "https://www.ynab.com/"
+    },
+    {
+      "id": "2026-07-02-wealth-value-creation",
+      "date": "2026-07-02",
+      "title": "收入的上限，取決於你創造多少價值",
+      "summary": "想賺更多，不是更拼命，而是為更多人解決更大的問題。財富是價值的回音——你影響越多人，財富的規模就越大。",
+      "points": [
+        "問自己：我能為誰、解決什麼值得付費的問題？",
+        "把服務一個人的能力，變成能服務一千人的系統",
+        "提升的不只是努力，而是你創造價值的槓桿"
+      ],
+      "action": "今天寫下你能解決的一個問題，想想如何讓它幫助到更多人。",
+      "source": "Naval Ravikant, How to Get Rich",
+      "url": "https://nav.al/rich"
+    },
+    {
+      "id": "2026-07-03-wealth-long-game",
+      "date": "2026-07-03",
+      "title": "致富是一場長賽局，不是短跑",
+      "summary": "真正的財富來自時間加上耐心的複利，而不是一夜暴富的幻想。願意玩長賽局的人，最終會贏過所有想抄捷徑的人。",
+      "points": [
+        "用 5 年、10 年的尺度做決定，而不是這個月",
+        "避開「快速致富」的誘惑，那通常是別人在致富",
+        "穩定持續地做對的事，時間會放大你的每個選擇"
+      ],
+      "action": "今天為一個財務目標，寫下一個你願意堅持 3 年的小習慣。",
+      "source": "Morgan Housel, The Psychology of Money",
+      "url": "https://www.morganhousel.com/"
     }
   ],
-  "updatedAt": "2026-06-18"
+  "updatedAt": "2026-06-27"
 }
