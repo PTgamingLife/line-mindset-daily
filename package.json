@@ -1,0 +1,14 @@
+{
+  "name": "onlinetrigger",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "LINE 每日成功心態圖文自動推播（GitHub Actions 雲端執行）",
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "send": "node scripts/send.mjs"
+  },
+  "dependencies": {
+    "openai": "^4.67.0"
+  }
+}

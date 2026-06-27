@@ -1,0 +1,51 @@
+name: Daily LINE Push
+
+on:
+  schedule:
+    # GitHub Actions cron 使用 UTC。23:00 UTC = 隔天 07:00 台北時間 (UTC+8)
+    - cron: '0 23 * * *'
+  workflow_dispatch: {}   # 允許手動觸發（用於補發/測試）
+
+permissions:
+  contents: write          # 需要 commit/push 生成的圖片
+
+concurrency:
+  group: daily-push
+  cancel-in-progress: false
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TZ: Asia/Taipei
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+      ALLOWED_LINE_TARGET_IDS: ${{ secrets.ALLOWED_LINE_TARGET_IDS }}
+      OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
+      OPENAI_IMAGE_MODEL: ${{ vars.OPENAI_IMAGE_MODEL || 'gpt-image-2' }}
+      OPENAI_IMAGE_QUALITY: ${{ vars.OPENAI_IMAGE_QUALITY || 'medium' }}
+      OPENAI_IMAGE_SIZE: ${{ vars.OPENAI_IMAGE_SIZE || '1024x1024' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci || npm install
+
+      - name: Generate post & image
+        run: npm run generate
+
+      - name: Commit generated image
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add images/
+          git commit -m "chore: daily image $(date +%F)" || echo "no changes"
+          git push
+
+      - name: Send to LINE
+        run: npm run send
