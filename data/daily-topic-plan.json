@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26",
+  "updatedAt": "2026-07-08",
   "topics": [
     {
       "id": "2026-05-26-resilience-adaptability",
@@ -406,7 +406,104 @@
       "action": "今天為一個財務目標，寫下一個你願意堅持 3 年的小習慣。",
       "source": "Morgan Housel, The Psychology of Money",
       "url": "https://www.morganhousel.com/"
+    },
+    {
+      "id": "2026-07-08-brand-who-remembers-you",
+      "date": "2026-07-08",
+      "title": "個人品牌的起點：你想「被誰、因為什麼」記住",
+      "summary": "個人品牌不是讓所有人都喜歡你，而是讓對的人在對的情境下想起你。先搞清楚你想服務誰、想因為什麼被記住，品牌才有方向。",
+      "points": [
+        "先定義你的理想受眾：他們的身分、困擾、渴望",
+        "想清楚你希望對方一提到某個問題就想到你",
+        "與其被很多人淡淡記得，不如被少數人深深記住"
+      ],
+      "action": "今天寫下一句話：「當人們遇到＿＿，我希望他們想到我。」把空格填滿。",
+      "source": "Dorie Clark, Reinventing You",
+      "url": "https://dorieclark.com/reinventing-you/"
+    },
+    {
+      "id": "2026-07-09-positioning-by-subtraction",
+      "date": "2026-07-09",
+      "title": "定位不是什麼都做，而是敢於捨棄",
+      "summary": "最強的定位來自減法。當你想服務所有人，就等於沒有定位。敢於放棄不屬於你的市場，才能在一個點上被記住。",
+      "points": [
+        "選一個明確的利基，勝過模糊地什麼都碰",
+        "說清楚你「不做什麼」，定位反而更鮮明",
+        "專精帶來溢價，泛泛只能拚價格"
+      ],
+      "action": "今天列出你目前在做的三件事，勇敢圈出一件最該捨棄、最不屬於你定位的。",
+      "source": "Al Ries & Jack Trout, Positioning",
+      "url": "https://www.ries.com/"
+    },
+    {
+      "id": "2026-07-10-positioning-statement",
+      "date": "2026-07-10",
+      "title": "用一句話說清楚你是誰（你的定位宣言）",
+      "summary": "如果你無法用一句話說清楚你是誰、幫誰解決什麼問題，別人也無法幫你記住或推薦你。定位宣言是個人品牌的地基。",
+      "points": [
+        "公式：我幫〔某群人〕解決〔某問題〕，讓他們〔得到某結果〕",
+        "用對方聽得懂的白話，而不是自吹的形容詞",
+        "一句好的定位，能讓別人替你轉述"
+      ],
+      "action": "今天用「我幫＿＿解決＿＿，讓他們＿＿」造出你的定位宣言，念給一個人聽看看順不順。",
+      "source": "Donald Miller, Building a StoryBrand",
+      "url": "https://storybrand.com/"
+    },
+    {
+      "id": "2026-07-11-brand-authenticity-consistency",
+      "date": "2026-07-11",
+      "title": "個人品牌 = 專業 × 真實 × 一致",
+      "summary": "專業讓人信任你的能力，真實讓人願意靠近你，一致讓人記得住你。三者缺一，品牌就站不穩。",
+      "points": [
+        "專業：持續輸出能解決問題的內容與成果",
+        "真實：分享觀點與過程，不只包裝完美人設",
+        "一致：視覺、語氣、主題長期維持同一調性"
+      ],
+      "action": "今天檢查你的社群：頭像、簡介、最近三則貼文，調性是否一致？修正一個最不一致的地方。",
+      "source": "Jeff Bezos: your brand is what people say about you",
+      "url": "https://www.forbes.com/sites/jaysondemers/2014/09/09/your-brand-is-what-people-say-about-you/"
+    },
+    {
+      "id": "2026-07-12-brand-differentiation-usp",
+      "date": "2026-07-12",
+      "title": "找到你的差異化：別人做不到的那一點",
+      "summary": "市場上和你類似的人很多，讓人選你的不是「你也會」，而是「只有你這樣」。差異化是把你的獨特經歷、觀點、風格變成賣點。",
+      "points": [
+        "盤點你的獨特組合：經歷＋專業＋個性的交集",
+        "把弱點或非典型背景，轉成別人沒有的視角",
+        "差異化不是更好，而是「不一樣且被需要」"
+      ],
+      "action": "今天寫下三個你和同行不一樣的地方，選一個最能打動受眾的，放進你的自我介紹。",
+      "source": "Seth Godin, Purple Cow",
+      "url": "https://seths.blog/purple-cow/"
+    },
+    {
+      "id": "2026-07-13-brand-show-dont-claim",
+      "date": "2026-07-13",
+      "title": "用內容證明你的定位，而不是自稱",
+      "summary": "說自己是專家沒有用，讓別人從你的內容裡得出這個結論才有用。持續分享有價值的觀點，就是最有力的定位證據。",
+      "points": [
+        "與其說「我很專業」，不如公開你怎麼解決問題",
+        "教學、案例、觀點，是建立信任的三種內容",
+        "累積的內容會替你 24 小時說話"
+      ],
+      "action": "今天發一則能證明你定位的內容：一個小教學、一個案例、或一個專業觀點。",
+      "source": "Gary Vaynerchuk, Jab Jab Jab Right Hook",
+      "url": "https://www.garyvaynerchuk.com/books/"
+    },
+    {
+      "id": "2026-07-14-brand-long-term-compounding",
+      "date": "2026-07-14",
+      "title": "個人品牌是長期複利，不是一次爆紅",
+      "summary": "個人品牌真正的力量在於累積。一次爆紅來得快去得也快，持續穩定的輸出才會讓信任像複利一樣越滾越大。",
+      "points": [
+        "把注意力從「單篇爆量」轉到「長期一致輸出」",
+        "每一次露出都在為你的信任帳戶存款",
+        "撐過沒人看的初期，是多數人放棄、你勝出的關鍵"
+      ],
+      "action": "今天為你的個人品牌設定一個可持續的頻率（例如每週三則），並排進行事曆。",
+      "source": "Naval Ravikant, Build a Personal Brand",
+      "url": "https://nav.al/"
     }
-  ],
-  "updatedAt": "2026-06-27"
+  ]
 }
