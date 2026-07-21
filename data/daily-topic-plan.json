@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08",
+  "updatedAt": "2026-07-17",
   "topics": [
     {
       "id": "2026-05-26-resilience-adaptability",
@@ -504,6 +504,104 @@
       "action": "今天為你的個人品牌設定一個可持續的頻率（例如每週三則），並排進行事曆。",
       "source": "Naval Ravikant, Build a Personal Brand",
       "url": "https://nav.al/"
+    },
+    {
+      "id": "2026-07-17-learning-how-not-how-much",
+      "date": "2026-07-17",
+      "title": "學得快的人，贏在「怎麼學」而不是「學多少」",
+      "summary": "同樣一小時，有人記住 10%，有人內化 80%。差別不在天賦，而在方法。用對策略，學習速度可以差好幾倍。",
+      "points": [
+        "主動回想勝過反覆閱讀，測試自己才會記住",
+        "間隔重複：分散學習遠勝一次塞爆",
+        "先問「我要解決什麼問題」，再決定學什麼"
+      ],
+      "action": "今天選一個你正在學的東西，闔上資料，用回想的方式寫下你記得的重點，再回頭對照缺口。",
+      "source": "Make It Stick — Brown, Roediger & McDaniel",
+      "url": "https://www.retrievalpractice.org/"
+    },
+    {
+      "id": "2026-07-18-learning-into-action",
+      "date": "2026-07-18",
+      "title": "學完就用，才叫學會",
+      "summary": "知道不等於做到。沒有轉成行動的知識只是收藏品。真正的學習，是讓行為在學完之後真的不一樣。",
+      "points": [
+        "每學一個觀念，立刻想一個今天可測試的場景",
+        "設定「學習轉化率」：每 3 個輸入至少 1 個輸出",
+        "學了沒用，三天後就會忘記九成"
+      ],
+      "action": "今天把最近學到的一個觀念，實際用在一件真實的事情上，並記錄結果。",
+      "source": "Harvard Business Review — Learning Is a Learned Behavior",
+      "url": "https://hbr.org/2018/05/learning-is-a-learned-behavior-heres-how-to-get-better-at-it"
+    },
+    {
+      "id": "2026-07-19-learning-teach-to-learn",
+      "date": "2026-07-19",
+      "title": "教別人，是最深的學習",
+      "summary": "能用簡單的話講清楚，才代表你真的懂。費曼技巧的核心：教學會逼出你理解裡的所有漏洞。",
+      "points": [
+        "用國中生也聽得懂的話解釋，卡住的地方就是你的盲點",
+        "別人的提問，會照出你自己沒想過的角度",
+        "輸出是最好的輸入，教一次勝過讀三次"
+      ],
+      "action": "今天挑一個你自認懂的觀念，用 3 分鐘講給一個外行人聽，看看哪裡卡住。",
+      "source": "Richard Feynman — The Feynman Technique",
+      "url": "https://fs.blog/feynman-technique/"
+    },
+    {
+      "id": "2026-07-20-learning-attack-your-bottleneck",
+      "date": "2026-07-20",
+      "title": "找到你的學習瓶頸，精準攻擊它",
+      "summary": "重複做你已經會的事，不會讓你變強。高手的成長來自針對弱點、有回饋、高專注的刻意練習。",
+      "points": [
+        "找出目前表現最弱的那一環，集中火力",
+        "練習後立刻取得回饋，而不是等結果出來",
+        "30 分鐘高品質練習，勝過 3 小時低效重複"
+      ],
+      "action": "今天誠實找出你最想進步的技能中「最弱的一環」，設計一個有明確標準的 30 分鐘練習。",
+      "source": "Anders Ericsson — Peak / Deliberate Practice",
+      "url": "https://hbr.org/2007/07/the-making-of-an-expert"
+    },
+    {
+      "id": "2026-07-21-learning-from-the-right-people",
+      "date": "2026-07-21",
+      "title": "向對的人學，勝過自己摸索三年",
+      "summary": "你的成長速度，很大程度取決於你身邊有沒有走過這條路的人。找到對的導師或榜樣，能省下大量試錯成本。",
+      "points": [
+        "找已經做到你想要結果的人，而不是只會講理論的人",
+        "主動請教具體問題，比泛泛請人「指導」更有效",
+        "你的圈子決定你的認知天花板"
+      ],
+      "action": "今天列出一位你想學習的對象，寫下一個具體問題，主動發訊息請教他。",
+      "source": "Peter Drucker on learning from others",
+      "url": "https://www.drucker.institute/"
+    },
+    {
+      "id": "2026-07-22-learning-leave-white-space",
+      "date": "2026-07-22",
+      "title": "學習要留白：吸收比塞滿更重要",
+      "summary": "不斷輸入卻不消化，只會造成資訊過載的假忙碌。真正的理解發生在你停下來反思、連結、整理的時候。",
+      "points": [
+        "每次學習後留 10 分鐘，寫下「這對我的意義是什麼」",
+        "減少輸入源，深讀少數勝過瀏覽全部",
+        "大腦在休息時整合知識，過度塞滿反而學不會"
+      ],
+      "action": "今天學完任何東西後，先不要接著看下一則，花 10 分鐘寫下你的理解與應用點。",
+      "source": "Cal Newport — Deep Work",
+      "url": "https://calnewport.com/deep-work/"
+    },
+    {
+      "id": "2026-07-23-learning-lifelong-asset",
+      "date": "2026-07-23",
+      "title": "持續學習是唯一不會貶值的資產",
+      "summary": "產業會變、技術會淘汰、職位會消失，但學習能力會跟著你一輩子。持續學習的複利，最終拉開所有人的差距。",
+      "points": [
+        "每天 30 分鐘的學習，一年就是 180 小時的優勢",
+        "學習能力比任何單一技能更保值",
+        "停止學習的那天，就是你開始被取代的那天"
+      ],
+      "action": "今天為自己設定一個可持續的學習節奏（例如每天 30 分鐘），並排進行事曆。",
+      "source": "Naval Ravikant — Learn to Learn",
+      "url": "https://nav.al/learn-to-learn"
     }
   ]
 }
